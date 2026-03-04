@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Filme",Film 1
+https://cdn-mek25hfupvaxlpt8.edgeon-bandwidth.com/engine/hls2-c/01/16397/mfuh7fbqchfv_,n,.urlset/master.m3u8
+
+#EXTINF:-1 group-title="Filme",Film 2
+https://example.com/movie2.mp4
