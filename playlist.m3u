@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Filme",Film 1
-https://cdn-mek25hfupvaxlpt8.edgeon-bandwidth.com/engine/hls2-c/01/16397/mfuh7fbqchfv_,n,.urlset/master.m3u8?t=yPThURaqkdwe_yvBRg-zfwdnsshz2iS2ulDglyCj46w&s=1772588414&e=14400&f=81988211&node=8xQmhgdmyZbNdL+vNOSUbnqqVR6Y+BCfiTNwwVyvyyY=&i=0.1&sp=2500&asn=6805&q=n&rq=prLS1dwYyHc0uQwg87BXAQ2n8OZPzhY1mw227OTQ
+https://cdn-mek25hfupvaxlpt8.edgeon-bandwidth.com/engine/hls2-c/01/16397/mfuh7fbqchfv_,n,.urlset/master.m3u8
 
 #EXTINF:-1 group-title="Filme",Film 2
 https://example.com/movie2.mp4
